@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <style>
+    .anirudh{
+        color:brown;
+        background-color: blue;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: smaller;
+    }
+    #singer{
+        color: aquamarine;
+        background-color: blue;
+    }
+    *{
+        font-size: x-small;
+    }
+</style>
+</head>
+<body>
+    <h1>ROCKSTAR</h1>
+    <img src="../10kcoders/anirudh.jpg"height=150" width="100">
+   <p style="color: orangered;background-color: black;">Anirudh Ravichander (born 16 October 1990), also credited mononymously as Anirudh, is an Indian music composer, 
+    and singer who works primarily in Tamil Cinema. He has also composed music for few Hindi and Telugu films. He has won two Filmfare Awards South,
+     nine SIIMA Awards, six Edison Awards and five Vijay Awards.[2]
+    </p>
+   <p class="anirudh">Anirudh Ravichander (born 16 October 1990), also credited mononymously as Anirudh, is an Indian music composer, 
+    and singer who works primarily in Tamil Cinema. He has also composed music for few Hindi and Telugu films. He has won two Filmfare Awards South,
+     nine SIIMA Awards, six Edison Awards and five Vijay Awards.[2]
+    </p>
+      <p id="singer">Anirudh Ravichander (born 16 October 1990), also credited mononymously as Anirudh, is an Indian music composer, 
+        and singer who works primarily in Tamil Cinema. He has also composed music for few Hindi and Telugu films. He has won two Filmfare Awards South,
+         nine SIIMA Awards, six Edison Awards and five Vijay Awards.
+        </p>
+        <p style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Anirudh Ravichander (born 16 October 1990), also credited mononymously as Anirudh, is an Indian music composer, 
+            and singer who works primarily in Tamil Cinema. He has also composed music for few Hindi and Telugu films. He has won two Filmfare Awards South,
+             nine SIIMA Awards, six Edison Awards and five Vijay Awards.
+            </p>
+           <p> Anirudh Ravichander (born 16 October 1990), also credited mononymously as Anirudh, is an Indian music composer, 
+        and singer who works primarily in Tamil Cinema. He has also composed music for few Hindi and Telugu films. He has won two Filmfare Awards South,
+         nine SIIMA Awards, six Edison Awards and five Vijay Awards.</p>
+         <p> Anirudh Ravichander (born 16 October 1990), also credited mononymously as Anirudh, is an Indian music composer, 
+            and singer who works primarily in Tamil Cinema. He has also composed music for few Hindi and Telugu films. He has won two Filmfare Awards South,
+             nine SIIMA Awards, six Edison Awards and five Vijay Awards.</p>
+
+</body>
+</html>
